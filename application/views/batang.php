@@ -78,8 +78,8 @@
 				},
                 {
 					label: <?php echo json_encode($jenis2) ?>,
-					backgroundColor: "rgba(153, 102, 255, 1)",
-                    borderColor: "rgba(153, 102, 255, 0.5)",
+					backgroundColor: "rgba(153, 90, 255, 1)",
+                    borderColor: "rgba(153, 90, 255, 0.5)",
                     data : <?php echo json_encode($stok2);?>
 				},
                 {
