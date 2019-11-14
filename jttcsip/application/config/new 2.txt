@@ -1,0 +1,27 @@
+<div class"col-md-2">
+	<div class="card">
+		<div class="card-header" style="background-color:#f4e3;">
+			<h5>Menu</h5>
+		</div>
+		<div class="card-body">
+			<div class="list-group">
+				......
+				.......
+			</div>
+		</div>
+		<div class="card-footer">
+		</div>
+	</div>
+	
+	<div class="card">
+		<div class="card-header">
+			<h5>Chat</h5>
+		</div>
+		<div class="card-body">
+			<a href="http://www.wa.me/628xxxxxx" target="_blank"><img src="logo.jpg" width="40px"></a>
+		</div>
+		<div class="card-footer">
+		</div>
+	</div>	
+	
+</div>
