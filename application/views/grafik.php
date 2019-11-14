@@ -51,7 +51,7 @@
 					label: <?php echo json_encode($merk) ?>,
 					data: <?php echo json_encode($stok) ?>,
 					backgroundColor: [
-					'rgba(43, 191, 56, 0.8)',
+					'rgba(43, 191, 50, 0.8)',
 					'rgba(34, 139, 36, 0.8)',
 					'rgba(30, 144, 255, 0.8)',
 					'rgba(173, 255, 48, 0.8)',
