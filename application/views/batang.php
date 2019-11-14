@@ -72,8 +72,8 @@
 				datasets: [
                 {
 					label: <?php echo json_encode($jenis1) ?>,
-					backgroundColor: "rgba(255, 99, 132, 1)",
-                    borderColor: "rgba(255, 99, 132, 0.5)",
+					backgroundColor: "rgba(255, 40, 132, 1)",
+                    borderColor: "rgba(255, 40, 132, 0.5)",
                     data : <?php echo json_encode($stok1);?>
 				},
                 {
