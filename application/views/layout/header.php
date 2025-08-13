@@ -33,6 +33,9 @@
         <a class="nav-link" href="<?php echo base_url().'index.php/upload' ?>">Daftar File</a>
       </li>
       <li class="nav-item active">
+        <a class="nav-link" href="<?php echo base_url().'index.php/hrbot'; ?>">HR Bot</a>
+      </li>
+      <li class="nav-item active">
         <a class="nav-link" href="#">Logout</a>
       </li>
     </ul>
